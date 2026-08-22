@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/1143-longest-common-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
