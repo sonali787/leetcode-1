@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0416-partition-equal-subset-sum](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0518-coin-change-ii](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0518-coin-change-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0416-partition-equal-subset-sum](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0518-coin-change-ii](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0518-coin-change-ii) |
 | [1143-longest-common-subsequence](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/1143-longest-common-subsequence) |
 ## Trie
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0518-coin-change-ii](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -71,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
