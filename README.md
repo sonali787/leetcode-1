@@ -85,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Math
+|  |
+| ------- |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
