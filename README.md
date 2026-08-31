@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0139-word-break) |
+| [0200-number-of-islands](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -91,4 +92,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
