@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0994-rotting-oranges) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -113,4 +115,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
