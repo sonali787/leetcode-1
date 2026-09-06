@@ -28,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0139-word-break) |
 | [1143-longest-common-subsequence](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/1143-longest-common-subsequence) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0300-longest-increasing-subsequence) |
