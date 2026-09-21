@@ -102,17 +102,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/3904-smallest-stable-index-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
