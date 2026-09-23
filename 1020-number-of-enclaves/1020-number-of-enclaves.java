@@ -22,31 +22,18 @@ class Solution {
         int m = grid[0].length;
        
         boolean[][] vis=new boolean[n][m];
-        for(int j=0;j<m;j++){
-             if(grid[0][j]==1){
-                dfs(vis,grid,0,j,n,m);
-             }
+         // Traverse boundary cells
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+
+                if (i == 0 || i == n - 1 || j == 0 || j == m - 1) {
+
+                    if (grid[i][j] == 1 && !vis[i][j]) {
+                        dfs(vis, grid, i, j, n, m);
+                    }
+                }
+            }
         }
-
-         for(int j=0;j<m;j++){
-             if(grid[n-1][j]==1){
-                dfs(vis,grid,n-1,j,n,m);
-             }
-        }
-
-
-       for(int i=0;i<n;i++){
-             if(grid[i][0]==1){
-                dfs(vis,grid,i,0,n,m);
-             }
-        }
-
-        for(int i=0;i<n;i++){
-             if(grid[i][m-1]==1){
-                dfs(vis,grid,i,m-1,n,m);
-             }
-        }
-
         int count =0;
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
