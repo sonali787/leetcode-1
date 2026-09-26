@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0130-surrounded-regions](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0217-contains-duplicate) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0695-max-area-of-island) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0695-max-area-of-island) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0695-max-area-of-island) |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0733-flood-fill) |
