@@ -1,45 +1,34 @@
- class Node{
+class Node {
     int i;
     int j;
-    Node(int i,int j){
-        this.i=i;
-        this.j=j;
+
+    Node(int i, int j) {
+        this.i = i;
+        this.j = j;
     }
- }
+}
 
 class Solution {
     public void solve(char[][] board) {
-          
-          int n = board.length;
-          int m = board[0].length;
 
-          Queue<Node> q = new LinkedList<>();
+        int n = board.length;
+        int m = board[0].length;
 
-            for (int i = 0; i < n; i++) {
-            if (board[i][0] == 'O') {
-                q.add(new Node(i, 0));
-                board[i][0] = 'V';
-            }
+        Queue<Node> q = new LinkedList<>();
 
-            if (board[i][m - 1] == 'O') {
-                q.add(new Node(i, m - 1));
-                board[i][m - 1] = 'V';
-            }
-        }
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
 
-        for (int j = 0; j < m; j++) {
-            if (board[0][j] == 'O') {
-                q.add(new Node(0, j));
-                board[0][j] = 'V';
-            }
+                if ((i == 0 || i == n - 1 || j == 0 || j == m - 1)
+                        && board[i][j] == 'O') {
 
-            if (board[n - 1][j] == 'O') {
-                q.add(new Node(n - 1, j));
-                board[n - 1][j] = 'V';
+                    q.add(new Node(i, j));
+                    board[i][j] = 'V';
+                }
             }
         }
-          int[][] dir = {{1,0},{-1,0},{0,1},{0,-1}};
-          while (!q.isEmpty()) {
+        int[][] dir = { { 1, 0 }, { -1, 0 }, { 0, 1 }, { 0, -1 } };
+        while (!q.isEmpty()) {
 
             Node curr = q.poll();
 
@@ -52,8 +41,8 @@ class Solution {
                 int nc = col + dir[i][1];
 
                 if (nr >= 0 && nr < n &&
-                    nc >= 0 && nc < m &&
-                    board[nr][nc] == 'O') {
+                        nc >= 0 && nc < m &&
+                        board[nr][nc] == 'O') {
 
                     board[nr][nc] = 'V';
                     q.add(new Node(nr, nc));
@@ -75,8 +64,6 @@ class Solution {
                 }
             }
         }
-
-
 
     }
 }
