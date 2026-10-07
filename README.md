@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0743-network-delay-time) |
 | [1020-number-of-enclaves](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/1020-number-of-enclaves) |
 ## Union-Find
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0743-network-delay-time) |
 ## Queue
 |  |
 | ------- |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0239-sliding-window-maximum) |
+| [0743-network-delay-time](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0743-network-delay-time) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -174,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
