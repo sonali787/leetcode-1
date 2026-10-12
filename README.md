@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0518-coin-change-ii) |
 | [1143-longest-common-subsequence](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/1143-longest-common-subsequence) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Trie
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0743-network-delay-time) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Queue
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0207-course-schedule) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -182,8 +185,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0743-network-delay-time) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0743-network-delay-time) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
