@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0139-word-break) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0217-contains-duplicate) |
 ## Longest Common Subsequence
 |  |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0743-network-delay-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
