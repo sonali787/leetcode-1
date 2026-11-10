@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/1020-number-of-enclaves) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3904-smallest-stable-index-ii](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0217-contains-duplicate) |
 | [0697-degree-of-an-array](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0697-degree-of-an-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0139-word-break) |
 | [1143-longest-common-subsequence](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/1143-longest-common-subsequence) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Dynamic Programming
 |  |
@@ -199,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0088-merge-sorted-array) |
+## Counting
+|  |
+| ------- |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 <!---LeetCode Topics End-->
