@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0268-missing-number) |
 | [0697-degree-of-an-array](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0697-degree-of-an-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Longest Increasing Subsequence
 |  |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0268-missing-number) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0268-missing-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/3870-count-commas-in-range) |
 ## Depth-First Search
@@ -211,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
