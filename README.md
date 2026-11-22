@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0130-surrounded-regions) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0695-max-area-of-island) |
@@ -225,5 +227,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
