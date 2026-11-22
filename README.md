@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/1020-number-of-enclaves) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3904-smallest-stable-index-ii](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Counting
 |  |
 | ------- |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
