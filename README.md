@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0088-merge-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0139-word-break) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0115-distinct-subsequences) |
+| [0119-pascals-triangle-ii](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/sonali787/https-github.com-sonali787-leetcode/tree/master/0300-longest-increasing-subsequence) |
